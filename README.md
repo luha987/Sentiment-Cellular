@@ -5,4 +5,4 @@
 1. Open your Google Colab
 2. Uploud File Sentiment-Cellular.ipynb in Google Colab
 3. Add file sentiment_cellular.csv
-4. Finish
+4. Run Code and Finish
